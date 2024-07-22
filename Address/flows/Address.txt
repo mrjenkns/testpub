@@ -1,2 +1,4 @@
 This represents the main Address flow.
+<<<<<<< HEAD
 With an update.
+This is a file update
